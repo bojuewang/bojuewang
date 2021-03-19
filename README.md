@@ -1,4 +1,4 @@
--  Hi, I’m bojue wang
+-  Hi, I’m Bojue Wang
 -  I’m interested in basketball
 -  I’m currently learning real analysis
 -  I’m looking to collaborate on ...
